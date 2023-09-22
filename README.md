@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catincaaat
-- 👀 I’m interested in analysis, machine learning, big data, process automation.
-- 🌱 I’m currently learning python, pandas, numpy, tensorflow and algorithms.
-- 💞️ I’m looking to collaborate as an intern.
+- 👀 I’m interested in development, process automation.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate as an flask+fastAPI developer.
 - 📫 How to reach me ...
 
 <!---
